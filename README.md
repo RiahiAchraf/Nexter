@@ -1,9 +1,14 @@
-# Nexter-Responsive-Website-Using-Advanced-HTML-CSS-SASS-Grid-
+# Nexter
+## World's best luxury homes
 
-Nexter Responsive Website Using Advanced :
+Responsive Website Design Using Advanced HTML, CSS, and SCSS.
 
+Demo: <a href="https://riahiachraf.github.io/Nexter" target="_blank" rel="noopener noreferrer"> Nexter </a>
+
+Build :
 - HTML 
-- CSS (Grid) 
+- CSS Using Grid
 - SASS
 
-Demo : https://riahiachraf.github.io/Nexter-Responsive-Website-Using-Advanced-HTML-CSS-SASS-Grid-/
+Deploy : 
+- Github
